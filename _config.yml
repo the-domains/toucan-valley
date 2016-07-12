@@ -1,14 +1,14 @@
-layout_spectrum: 0.011194212595000863
-typography_spectrum: 0.760295205982402
+layout_spectrum: 0.7746538780629635
+typography_spectrum: 0.08672506618313491
 color:
-  brandStrength: 0.9312341227196157
-  lightness: 0.2614977660123259
-  saturation: 0.9185197842307389
-  rhythmicContrast: 0.9526708649937063
+  brandStrength: 0.697159654693678
+  lightness: 0.7972632977180183
+  saturation: 0.7259504916146398
+  rhythmicContrast: 0.8614517417736351
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Toucan Valley
